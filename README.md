@@ -1,4 +1,4 @@
-### Hi there! I'm Yingchen Bai 👋 
+# Hi there! I'm Yingchen Bai 👋 
 
 
 - 📍  Based in Seattle, WA
