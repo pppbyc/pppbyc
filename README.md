@@ -5,8 +5,7 @@
 - 👀  I’m interested in both front-end and back-end techs
 - 📫  How to reach me yingchenbai@gmail.com
 
-## Languages & Tools
+## Let's connect! 
 <div>
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </div>
