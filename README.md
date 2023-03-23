@@ -3,7 +3,7 @@
 
 - 📍   Based in Seattle, WA
 - 👀   I’m interested in both front-end and back-end techs
-- 📫   How to reach me yingchenbai@gmail.com
+- 📫   How to reach me 
 
 ## Let's connect! 
 <a href="https://www.linkedin.com/in/yingchenbai/">
